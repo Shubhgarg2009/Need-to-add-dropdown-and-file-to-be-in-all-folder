@@ -1,0 +1,19 @@
+.html,body{
+  background-color:rgb(226, 226, 226); 
+}
+.backdrop{
+background-color:rgb(255, 255, 255);
+border-radius: 50px;
+}
+.title{
+  margin-top: 200px;
+  text-align: center;
+  font-family: "stencil";
+  color:black;
+}
+.paragraph{
+  text-align: center;
+  font-size: 30px;
+  font-family: "cooper black";
+  color:rgb(88, 88, 88)
+}
